@@ -1,0 +1,15 @@
+Changes
+Makefile.PL
+MANIFEST
+README
+t/GPS.t
+lib/GPS.pm
+lib/GPS/Serial.pm
+lib/GPS/NMEA/GP/GGA.pm
+lib/GPS/NMEA/GP/GLL.pm
+lib/GPS/NMEA/GP/GSA.pm
+lib/GPS/NMEA/GP/GSV.pm
+lib/GPS/NMEA/GP/RMC.pm
+lib/GPS/NMEA/GP/VTG.pm
+examples/gps.pl
+examples/gps-tk.pl
